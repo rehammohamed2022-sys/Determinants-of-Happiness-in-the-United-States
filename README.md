@@ -202,11 +202,7 @@ The model demonstrated strong ability to identify happy individuals and acceptab
 
 Statistics, Categorical Data Analysis, Happiness Research, Subjective Well-Being, Logistic Regression, Odds Ratios, Chi-Square Tests, World Values Survey, Social Values, Economic Satisfaction, ROC Analysis, Predictive Modeling, Data Science, R Programming
 
----
 
-## Author
-
-Reham Mohamed
 
 B.Sc. Statistics
 
